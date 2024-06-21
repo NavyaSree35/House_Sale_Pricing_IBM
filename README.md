@@ -24,33 +24,33 @@ The dataset used in this project is provided by the IBM course on Coursera. It c
 ## Features
 The dataset includes the following features:
 
-. date: Date of the house sale
-. price: Sale price of the house (target variable)
-. bedrooms: Number of bedrooms
-. bathrooms: Number of bathrooms
-. sqft_living: Square footage of the living space
-. sqft_lot: Square footage of the lot
-. floors: Number of floors
-. waterfront: Whether the house has a waterfront view
-. view: Quality of the view
-. condition: Condition of the house
-. grade: Grade given to the house
-. sqft_above: Square footage of the house apart from basement
-. sqft_basement: Square footage of the basement
-. lat: Latitude of the house location
-. long: Longitude of the house location
-. sqft_living15: Living room area in 2015
-. sqft_lot15: Lot size area in 2015
+* date: Date of the house sale
+* price: Sale price of the house (target variable)
+* bedrooms: Number of bedrooms
+* bathrooms: Number of bathrooms
+* sqft_living: Square footage of the living space
+* sqft_lot: Square footage of the lot
+* floors: Number of floors
+* waterfront: Whether the house has a waterfront view
+* view: Quality of the view
+* condition: Condition of the house
+* grade: Grade given to the house
+* sqft_above: Square footage of the house apart from basement
+* sqft_basement: Square footage of the basement
+* lat: Latitude of the house location
+* long: Longitude of the house location
+* sqft_living15: Living room area in 2015
+* sqft_lot15: Lot size area in 2015
 
 ## Tools and Libraries
 
 The following tools and libraries are used in this project:
-. Python
-. Pandas
-. NumPy
-. Seaborn
-. Matplotlib
-. Scikit-learn
+* Python
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
+* Scikit-learn
 
 ## Exploratory Data Analysis (EDA)
 EDA is performed to understand the distribution of the data, detect any anomalies or outliers, and identify potential relationships between features. Various visualizations such as histograms, scatter plots, and box plots are used to explore the dataset.
@@ -62,15 +62,15 @@ Data preprocessing steps include handling missing values, encoding categorical v
 Multiple machine learning models are implemented and evaluated, including:
 
 ## Linear Regression
-. Ridge Regression
-. Polynomial Regression
-. Hyperparameter tuning is performed using GridSearchCV to optimize the model performance.
+* Ridge Regression
+* Polynomial Regression
+* Hyperparameter tuning is performed using GridSearchCV to optimize the model performance.
 
 ## Evaluation
 The models are evaluated using metrics such as:
 
-. Mean Squared Error (MSE)
-. Root Mean Squared Error (RMSE)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
 
 ## Conclusion
 The project concludes with a discussion on the model performance, insights gained from the data, and potential improvements for future work.
