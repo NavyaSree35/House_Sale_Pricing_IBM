@@ -5,15 +5,15 @@
 This project is part of the IBM Data Science Professional Certificate course offered by Coursera. The primary goal is to predict house sale prices using various features of the houses. This project employs data analysis and machine learning techniques to build a predictive model that can estimate the sale price of a house based on its attributes
 
 ## Table of Contents
-. Introduction
-. Dataset
-. Features
-. Tools and Libraries
-. Exploratory Data Analysis (EDA)
-. Data Preprocessing
-. Modeling
-. Evaluation
-. Conclusion
+* Introduction
+* Dataset
+* Features
+* Tools and Libraries
+* Exploratory Data Analysis (EDA)
+* Data Preprocessing
+* Modeling
+* Evaluation
+* Conclusion
 
 ## Introduction
 Predicting house prices is a critical task in the real estate industry. Accurate predictions help buyers make informed decisions and sellers to set appropriate prices. This project demonstrates how machine learning algorithms can be applied to predict house prices based on historical data.
